@@ -2,7 +2,10 @@
 
 ## Introduction
 
-This project transforms a standard robot car into a WiFi-controlled car using an ESP8266 module (specifically the D1 Mini). By establishing the ESP8266 as an Access Point (AP), users can connect to it directly via WiFi and control the car using a simple web interface. This approach eliminates the need for an external MQTT broker or WiFi network, simplifying the setup and increasing the portability of the car.
+This project demonstrates the versatility of the ESP8266 module in creating a simple yet effective wireless control system for a robot car. It's a great starting point for anyone interested in robotics, IoT, or WiFi-based control systems.
+![image](https://github.com/muhammadaasem/esp_AP_L293D_MotorDriver/assets/3693415/06bef3bc-3468-4488-a790-1bafcd6f10d5)
+
+
 
 ## Features and Capabilities
 
@@ -52,9 +55,6 @@ LR_PIN | D6 | IN4
 2. **Access the Web Interface**: Open a web browser and navigate to the ESP8266's IP address (default is usually `192.168.4.1`).
 3. **Control the Car**: Use the buttons on the web interface to control the car. You can move the car forward, backward, turn left, turn right, and stop.
 
-## Summary
 
-This project demonstrates the versatility of the ESP8266 module in creating a simple yet effective wireless control system for a robot car. It's a great starting point for anyone interested in robotics, IoT, or WiFi-based control systems.
-![image](https://github.com/muhammadaasem/esp_AP_L293D_MotorDriver/assets/3693415/06bef3bc-3468-4488-a790-1bafcd6f10d5)
 
 
