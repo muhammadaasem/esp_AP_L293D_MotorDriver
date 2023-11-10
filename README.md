@@ -27,6 +27,11 @@ This project transforms a standard robot car into a WiFi-controlled car using an
 1. **Motor Driver Connection**: Connect the ESP8266 pins to the L293D motor driver or your specific motor driver according to your design.
 2. **Power Supply**: Ensure both the ESP8266 and the motor driver are powered appropriately.
 
+RF_PIN --> D1 --> IN1
+RR_PIN --> D2 --> IN2
+LF_PIN --> D5 --> IN3
+LR_PIN --> D6 --> IN4
+
 ### Software Setup
 
 1. **Download the Code**: Clone the repository or download the code from GitHub.
